@@ -1,1 +1,3 @@
-# Primeiro Model feito atráves da video aula de Matheus Battisti
+# Modal-Javascript
+
+criação de um modal para aprofundar o conhecimento em js,html e css.
